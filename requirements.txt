@@ -1,5 +1,4 @@
-streamlit 
-pip install git+https://github.com/openai/whisper.git 
-torch 
-
-
+streamlit
+torch
+git+https://github.com/openai/whisper.git
+audio-recorder-streamlit
